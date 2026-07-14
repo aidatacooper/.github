@@ -46,12 +46,12 @@ We believe AI agents should have native tools to inspect and edit your BI layer.
 {
   "mcpServers": {
     "cwtwb": {
-      "command": "python",
-      "args": ["-m", "cwtwb.mcp_server"]
+      "command": "uvx",
+      "args": ["cwtwb"]
     },
     "cwprep": {
-      "command": "python",
-      "args": ["-m", "cwprep.mcp_server"]
+      "command": "uvx",
+      "args": ["cwprep"]
     }
   }
 }
