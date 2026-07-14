@@ -1,4 +1,4 @@
-# 🚀 aidatacooper (DataCooper AI Lab)
+# aidatacooper (DataCooper AI Lab)
 
 Welcome to **aidatacooper** — the open-source engineering lab founded by **[Cooper Wenhua](https://github.com/imgwho)**. 
 
@@ -6,7 +6,7 @@ Our mission is to **make Business Intelligence programmable, agent-friendly, and
 
 ---
 
-## 📖 The datacooper Story: Why Programmable BI?
+## The datacooper Story: Why Programmable BI?
 
 For years, Business Intelligence has been locked behind graphical user interfaces (GUIs). While great for visual exploration, this drag-and-drop paradigm introduces major challenges for modern software teams:
 *   **No Version Control**: `.twb` and `.tfl` files are XML/JSON monoliths that are difficult to diff, track, or merge in Git.
@@ -17,7 +17,7 @@ For years, Business Intelligence has been locked behind graphical user interface
 
 ---
 
-## 🛠️ Our Open-Source Ecosystem
+## Our Open-Source Ecosystem
 
 We build and maintain the core engines that turn manual BI steps into programmable systems:
 
@@ -25,15 +25,15 @@ We build and maintain the core engines that turn manual BI steps into programmab
   <img src="https://img.shields.io/badge/cwtwb-Workbook%20Engineering-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/cwprep-PrepFlow%20Automation-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/MCP-Agent%20Bridges-7C3AED?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/cwtwb.com-Docs%20%26%20Spec-111111?style=for-the-badge&logo=githubpages&logoColor=white" />
+  <img src="https://img.shields.io/badge/datacooper.com-Docs%20%26%20Spec-111111?style=for-the-badge&logo=githubpages&logoColor=white" />
 </p>
 
 ### Featured Repositories
 
 | Project | Target | The Core Innovation |
 |---|---|---|
-| 📊 **[cwtwb](https://github.com/imgwho/cwtwb)** | Tableau Workbook (`.twb` / `.twbx`) | Text-to-Workbook compiler and parser. Allows AI agents (via MCP) to dynamically edit worksheets, manage calculated fields, and validate schemas without GUI interaction. |
-| 🔀 **[cwprep](https://github.com/imgwho/cwprep)** | Tableau Prep Flow (`.tfl`) | Text-to-PrepFlow engine. Translates natural language data-cleaning requests into valid Tableau Prep flows, offering offline validation, schema checking, and automated ETL staging. |
+| **[cwtwb](https://github.com/imgwho/cwtwb)** | Tableau Workbook (`.twb` / `.twbx`) | Text-to-Workbook compiler and parser. Allows AI agents (via MCP) to dynamically edit worksheets, manage calculated fields, and validate schemas without GUI interaction. |
+| **[cwprep](https://github.com/imgwho/cwprep)** | Tableau Prep Flow (`.tfl`) | Text-to-PrepFlow engine. Translates natural language data-cleaning requests into valid Tableau Prep flows, offering offline validation, schema checking, and automated ETL staging. |
 
 ---
 
